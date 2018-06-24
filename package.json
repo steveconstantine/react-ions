@@ -7,10 +7,6 @@
     "type": "git",
     "url": "https://github.com/GetAmbassador/react-ions.git"
   },
-  "engines": {
-    "node": "4.8.4",
-    "npm": "3.10.10"
-  },
   "keywords": [
     "react",
     "conventions",
